@@ -1,5 +1,5 @@
 [package]
-name = "Exercise_2_Question"
+name = "exercise2"
 version = "0.1.0"
 authors = ["Vraj Patel <v227patel@uwaterloo.ca>"]
 edition = "2018"

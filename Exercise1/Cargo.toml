@@ -1,6 +1,7 @@
 [package]
-name = "ece459-e1"
+name = "exercise1"
 version = "0.1.0"
+# Add your own name to the list of authors below
 authors = ["Vinai Birbal <vinai.birbal@uwaterloo.ca>"]
 edition = "2018"
 
