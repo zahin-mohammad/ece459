@@ -1,0 +1,7 @@
+\BOOKMARK [1][-]{section.1}{Sudoku Solver}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Algorithm}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Possbile Optimizations}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{Nonblocking I/O}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{Using Curl Multi}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.2}{Benchmarking Blocking vs Non-Blocking}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.3}{Benchmarking Number of Connections}{section.2}% 7

@@ -1,0 +1,30 @@
+Benchmark #1: target/release/lab1 verify 1.txt
+  Time (mean ± σ):     182.5 ms ±  79.1 ms    [User: 13.1 ms, System: 3.6 ms]
+  Range (min … max):   103.9 ms … 307.3 ms    10 runs
+
+Benchmark #1: target/release/lab1 verify 10.txt
+  Time (mean ± σ):     289.2 ms ±  22.4 ms    [User: 12.4 ms, System: 7.4 ms]
+  Range (min … max):   236.8 ms … 309.8 ms    11 runs
+
+Benchmark #1: target/release/lab1 verify 100.txt
+  Time (mean ± σ):     314.7 ms ±   3.0 ms    [User: 30.6 ms, System: 24.6 ms]
+  Range (min … max):   310.7 ms … 320.2 ms    10 runs
+ 
+Benchmark #1: target/release/lab1 verify 200.txt
+  Time (mean ± σ):     526.9 ms ±  13.2 ms    [User: 87.3 ms, System: 47.9 ms]
+  Range (min … max):   498.6 ms … 541.5 ms    10 runs
+ 
+Benchmark #1: target/release/lab1 verify 300.txt
+  Time (mean ± σ):     677.9 ms ±  17.0 ms    [User: 196.5 ms, System: 47.0 ms]
+  Range (min … max):   653.6 ms … 714.9 ms    10 runs
+ 
+Benchmark #1: target/release/lab1 verify 400.txt
+  Time (mean ± σ):     838.7 ms ±  19.0 ms    [User: 308.1 ms, System: 62.7 ms]
+  Range (min … max):   807.3 ms … 875.3 ms    10 runs
+ 
+Benchmark #1: target/release/lab1 verify 500.txt
+  Time (mean ± σ):      1.030 s ±  0.102 s    [User: 452.2 ms, System: 62.8 ms]
+  Range (min … max):    0.985 s …  1.317 s    10 runs
+ 
+  Warning: Statistical outliers were detected. Consider re-running this benchmark on a quiet PC without any interferences from other programs. It might help to use the '--warmup' or '--prepare' options.
+ 

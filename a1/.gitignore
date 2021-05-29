@@ -1,0 +1,7 @@
+.idea
+target/
+*venv/
+*/*.vscode/
+*/*.aux
+*/*.fls
+*/*.fdb_latexmk

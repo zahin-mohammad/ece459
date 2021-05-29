@@ -1,0 +1,27 @@
+Benchmark #1: target/release/lab1 verify 1.txt
+  Time (mean ± σ):     188.7 ms ±  58.1 ms    [User: 11.3 ms, System: 5.9 ms]
+  Range (min … max):    81.6 ms … 259.5 ms    15 runs
+
+Benchmark #1: target/release/lab1 verify 10.txt
+  Time (mean ± σ):      1.924 s ±  0.148 s    [User: 15.0 ms, System: 8.0 ms]
+  Range (min … max):    1.736 s …  2.168 s    10 runs
+
+Benchmark #1: target/release/lab1 verify 100.txt
+  Time (mean ± σ):     17.760 s ±  0.632 s    [User: 38.5 ms, System: 30.8 ms]
+  Range (min … max):   16.889 s … 18.903 s    10 runs
+
+Benchmark #1: target/release/lab1 verify 200.txt
+  Time (mean ± σ):     35.720 s ±  1.150 s    [User: 77.6 ms, System: 43.3 ms]
+  Range (min … max):   33.921 s … 37.541 s    10 runs
+
+Benchmark #1: target/release/lab1 verify 300.txt
+  Time (mean ± σ):     53.676 s ±  1.303 s    [User: 105.3 ms, System: 68.4 ms]
+  Range (min … max):   51.359 s … 55.290 s    10 runs
+
+Benchmark #1: target/release/lab1 verify 400.txt
+  Time (mean ± σ):     72.627 s ±  1.542 s    [User: 144.2 ms, System: 80.3 ms]
+  Range (min … max):   69.954 s … 75.082 s    10 runs
+ 
+Benchmark #1: target/release/lab1 verify 500.txt
+  Time (mean ± σ):     89.235 s ±  1.687 s    [User: 173.6 ms, System: 97.7 ms]
+  Range (min … max):   86.081 s … 92.017 s    10 runs
