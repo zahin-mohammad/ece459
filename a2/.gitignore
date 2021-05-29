@@ -1,0 +1,7 @@
+.idea
+target/
+*.fls
+*.aux
+*.log
+*.out
+*.gz
