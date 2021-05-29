@@ -1,0 +1,9 @@
+.idea
+target/
+docker/
+*/_minted-report/*
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.gz
