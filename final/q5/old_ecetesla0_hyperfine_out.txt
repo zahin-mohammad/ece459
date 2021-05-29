@@ -1,0 +1,5 @@
+hyperfine --warmup 1 'target/release/robinson --html examples/perf-rainbow.html --css examples/perf-rainbow.css'
+Benchmark #1: target/release/robinson --html examples/perf-rainbow.html --css examples/perf-rainbow.css
+  Time (mean ± σ):     673.0 ms ±  28.9 ms    [User: 581.9 ms, System: 85.5 ms]
+  Range (min … max):   637.4 ms … 721.8 ms    10 runs
+ 

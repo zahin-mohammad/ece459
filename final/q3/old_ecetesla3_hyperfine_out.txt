@@ -1,0 +1,4 @@
+Benchmark #1: target/release/q3
+  Time (mean ± σ):     420.8 ms ±  89.0 ms    [User: 420.3 ms, System: 0.4 ms]
+  Range (min … max):   342.4 ms … 585.0 ms    10 runs
+ 

@@ -1,0 +1,15 @@
+[package]
+name = "q3"
+version = "0.1.0"
+authors = ["Patrick Lam <patrick.lam@uwaterloo.ca>, Zahin Mohammad <z5mohamm@uwaterloo.ca>"]
+
+edition = "2018"
+
+[dependencies]
+failure = "0.1.6"
+num-traits = "0.2.11"
+derive_more = "0.99.3"
+hashbrown = "0.7.0"
+
+crossbeam = "0.7.3"
+crossbeam-channel = "0.5.0"

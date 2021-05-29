@@ -1,0 +1,1 @@
+hyperfine --warmup 1 'target/release/robinson --html examples/perf-rainbow.html --css examples/perf-rainbow.css'

@@ -1,0 +1,16 @@
+[package]
+name = "robinson"
+version = "0.0.1"
+authors = ["Matt Brubeck <mbrubeck@limpet.net>"]
+
+[[bin]]
+name = "robinson"
+path = "src/main.rs"
+
+[dependencies]
+getopts = "0.2.21"
+image = "0.14"
+rayon = "1.5.0"
+
+[profile.release]
+debug = true
